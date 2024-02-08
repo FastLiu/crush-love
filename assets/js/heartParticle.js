@@ -248,7 +248,7 @@ const ParticlePool = (function () {
 
     // create the fill
 
-    context.fillStyle = "#B8336A";
+    context.fillStyle = "#8111B2";
 
     context.fill();
 
